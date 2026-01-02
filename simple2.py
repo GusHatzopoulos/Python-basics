@@ -1,2 +1,2 @@
 # Simple2
-2
+print("number two: 2" )
