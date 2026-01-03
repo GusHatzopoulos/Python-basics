@@ -1,2 +1,2 @@
 # Simple2
-print("number two: 2" )
+print("Number two: 2")

@@ -1,2 +1,3 @@
 # Simple
-1
+print("Hello world!")
+print("plus, hello")
